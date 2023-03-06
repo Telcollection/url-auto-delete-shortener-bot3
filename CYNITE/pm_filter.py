@@ -718,7 +718,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "cynite_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/+awyMHD2-UZo4NzNh')
+                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='t.me/+awyMHD2-UZo4NzNh')
                      ], [
                       InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='t.me/moonshows'),
                       InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='t.me/+awyMHD2-UZo4NzNh')
